@@ -16,7 +16,3 @@ function mbtp_custom_price_shortcode($atts) {
     return esc_html($price);
 }
 add_shortcode('custom-price', 'mbtp_custom_price_shortcode');
-
-require_once __DIR__ . '/custom-price-block.php';
-
-
