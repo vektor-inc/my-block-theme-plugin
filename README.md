@@ -22,10 +22,16 @@
 ### VK Blocks の便利なお役立ち機能
 
 * 非表示
+  https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-blocks/vk-blocks-functions/hidden-settings/
+* ブロックの余白
+  https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-blocks/vk-blocks-functions/block-margin/
 * テキストツールバー
   - nowrap
+    https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-blocks/vk-blocks-functions/text-nowrap/
   - 蛍光マーカー
+    https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-blocks/vk-blocks-functions/highlighter/
   - インライン文字サイズ
+    https://www.vektor-inc.co.jp/service/wordpress-plugins/vk-blocks/vk-blocks-functions/inline-font-size/
 * テーブル
   - リバース
   - 横スクロール
