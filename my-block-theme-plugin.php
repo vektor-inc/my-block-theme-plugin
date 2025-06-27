@@ -7,7 +7,10 @@ Author:
 License: GPL2 or later
 */
 
-// [get-custom-field] ショートコードで指定したカスタムフィールドの値を表示
+/**
+ * カスタムフィールドの値を表示するショートコードの関数
+ * ショートコードの使用例: [get-custom-field name="price"]
+ */
 function mbtp_get_custom_field_shortcode($atts) {
     global $post;
     if (!isset($post->ID)) return '';
@@ -19,4 +22,5 @@ function mbtp_get_custom_field_shortcode($atts) {
     if ($value === '') return '';
     return esc_html($value);
 }
+// ショートコードの名前, ショートコードで実行する関数名
 add_shortcode('get-custom-field', 'mbtp_get_custom_field_shortcode');
