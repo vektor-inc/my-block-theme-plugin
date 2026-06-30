@@ -3,6 +3,11 @@
 テーマやプラグインをカスタマイズするための PHP を書いたりするためのプラグインです。
 子テーマの　functions.php のような感覚で、my-block-theme-plugin.php に PHP を書く想定です。
 
+== Changelog ==
+
+= 1.0.0 =
+[ Other ] Initial release
+
 ---
 
 ## おまけ
