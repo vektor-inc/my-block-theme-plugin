@@ -1,5 +1,12 @@
 # My Block Theme Plugin
 
+テーマやプラグインをカスタマイズするための PHP を書いたりするためのプラグインです。
+子テーマの　functions.php のような感覚で、my-block-theme-plugin.php に PHP を書く想定です。
+
+---
+
+## おまけ
+
 ### さくさくつくれるアイテム紹介
 
 * VK FullSite Installer
@@ -12,12 +19,7 @@
 * VK Dynamic If Block
   条件分岐で表示制御ができる
   https://ja.wordpress.org/plugins/vk-dynamic-if-block/
-* Block Visibility
-  条件分岐で表示制御ができる
-  https://ja.wordpress.org/plugins/block-visibility/
-* Advanced Query Loop
-  クエリーループブロックのクエリーを細かく指定できる
-  https://ja.wordpress.org/plugins/advanced-query-loop/
+
 
 ### VK Blocks の便利なお役立ち機能
 
@@ -38,7 +40,5 @@
 
 ### その他
 
-* ブロックテーマでGoogleフォントを追加・設定する方法
-  https://www.vektor-inc.co.jp/post/add-google-fonts-block-theme/
 * ブロックテーマで編集権限のユーザーでもメニューを編集できるようにする
   https://www.vektor-inc.co.jp/post/allow-navigation-edit-for-editor/
